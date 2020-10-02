@@ -3,16 +3,16 @@
     <name>AboutDialog</name>
     <message>
         <source>About %1</source>
-        <translation>关于 %1
+        <translation>关于 VMCTX虚拟化云盘系统
 </translation>
     </message>
     <message>
         <source>&lt;h2&gt;%1 Client %2&lt;/h2&gt;</source>
-        <translation>%1 客户端 %2</translation>
+        <translation>VMCTX虚拟化云盘系统客户端</translation>
     </message>
     <message>
         <source>&lt;h5&gt; REV %1 &lt;/h5&gt;</source>
-        <translation>&lt;h5&gt; 版本 %1 &lt;/h5&gt;</translation>
+        <translation>&lt;h5&gt; 版本 7.0.7 &lt;/h5&gt;</translation>
     </message>
     <message>
         <source>About</source>
@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>pro version</source>
-        <translation>企业版</translation>
+        <translation>VMCTX虚拟化云盘系统</translation>
     </message>
     <message>
         <source>No account</source>
@@ -1145,11 +1145,11 @@ failed to upload.</source>
     <name>InitSeafileDialog</name>
     <message>
         <source>%1 Initialization</source>
-        <translation>%1 初始化</translation>
+        <translation>VMCTX虚拟化云盘系统 初始化</translation>
     </message>
     <message>
         <source>Choose %1 folder</source>
-        <translation>选择 %1 文件夹</translation>
+        <translation>选择 VMCTX虚拟化云盘系统 文件夹</translation>
     </message>
     <message>
         <source>Please choose a directory</source>
@@ -1438,15 +1438,15 @@ Do you like to download your default library?</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;For example: https://seacloud.cc&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;例如： https://seacloud.cc&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;例如： http://vmctx.com&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>or http://192.168.1.24:8000</source>
-        <translation>或者 http://192.168.1.24:8000</translation>
+        <translation>咨询系统管理员获取登陆信息</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码：</translation>
+        <translation>登录密码：</translation>
     </message>
     <message>
         <source>status text</source>
@@ -1462,7 +1462,7 @@ Do you like to download your default library?</source>
     </message>
     <message>
         <source>e.g. Jim&apos;s laptop</source>
-        <translation>例如：小王的工作笔记本</translation>
+        <translation>技术支持微信：ctxware</translation>
     </message>
     <message>
         <source>Login</source>
@@ -2627,7 +2627,7 @@ File path contains invalid characters. It is not synced to this computer.</sourc
     </message>
     <message>
         <source>open %1 folder</source>
-        <translation>打开 %1 文件夹</translation>
+        <translation>打开云盘文件夹</translation>
     </message>
     <message>
         <source>Open &amp;logs folder</source>
