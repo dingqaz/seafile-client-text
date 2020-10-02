@@ -1177,7 +1177,7 @@ failed to upload.</source>
     </message>
     <message>
         <source>Please choose a folder. We will create a %1 subfolder in it. When you download a library, it will be saved there by default.</source>
-        <translation>请选择一个文件夹。我们会在这个文件夹下创建 %1 目录，您下载的资料库将默认保存在此处。</translation>
+        <translation>请选择一个文件夹。我们会在这个文件夹下创建 虚拟化云盘 目录，您下载的资料库将默认保存在此处。</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -2798,7 +2798,7 @@ File path contains invalid characters. It is not synced to this computer.</sourc
     </message>
     <message>
         <source>Auto start %1 after login</source>
-        <translation>开机自动启动 %1</translation>
+        <translation>开机自动启动 VMCTX虚拟化云盘</translation>
     </message>
     <message>
         <source>Hide %1 Icon from the dock</source>
