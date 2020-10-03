@@ -2646,6 +2646,10 @@ File path contains invalid characters. It is not synced to this computer.</sourc
         <translation>显示关于对话框</translation>
     </message>
     <message>
+        <source>&amp;Online help</source>
+        <translation>在线帮助(&amp;O)</translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>文件</translation>
     </message>
