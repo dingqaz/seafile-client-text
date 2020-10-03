@@ -2623,7 +2623,7 @@ File path contains invalid characters. It is not synced to this computer.</sourc
     </message>
     <message>
         <source>Open %1 &amp;folder</source>
-        <translation>打开 %1 文件夹(&amp;F)</translation>
+        <translation>打开 vmctx云盘 文件夹(&amp;F)</translation>
     </message>
     <message>
         <source>open %1 folder</source>
