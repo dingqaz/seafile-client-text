@@ -1458,7 +1458,7 @@ Do you like to download your default library?</source>
     </message>
     <message>
         <source>Email / Username:</source>
-        <translation>登录账号:</translation>
+        <translation>登录账号：</translation>
     </message>
     <message>
         <source>e.g. Jim&apos;s laptop</source>
