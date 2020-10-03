@@ -1052,7 +1052,7 @@ failed to upload.</source>
     </message>
     <message>
         <source>&amp;Generate %1 Download Link</source>
-        <translation>获取%1下载链接</translation>
+        <translation>获取vmctx云盘下载链接</translation>
     </message>
     <message>
         <source>Share to User</source>
@@ -1060,7 +1060,7 @@ failed to upload.</source>
     </message>
     <message>
         <source>G&amp;enerate %1 Internal Link</source>
-        <translation>获取%1内部链接(&amp;E)</translation>
+        <translation>获取vmctx云盘内部链接(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Save As To...</source>
@@ -1458,7 +1458,7 @@ Do you like to download your default library?</source>
     </message>
     <message>
         <source>Email / Username:</source>
-        <translation>邮箱 / 用户名:</translation>
+        <translation>登录账号:</translation>
     </message>
     <message>
         <source>e.g. Jim&apos;s laptop</source>
