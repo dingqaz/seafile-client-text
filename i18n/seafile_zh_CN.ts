@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Email</source>
-        <translation>邮箱</translation>
+        <translation>登录账号</translation>
     </message>
     <message>
         <source>OK</source>
